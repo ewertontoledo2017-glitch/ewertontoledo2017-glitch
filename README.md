@@ -12,14 +12,47 @@ Trabalho com tecnologias como:
 - 💻 Shell Script
 
 ---
-
 ## 🏢 Experiência Profissional
 
-- **B3 (via Elumini)**  
-  Automação e melhoria de pipelines com **GitHub Actions**, **Bitbucket**, **Bamboo**, gestão de artefatos no **Nexus** e qualidade com **SonarQube** em aplicações .NET.
+### ACT Digital
+Atuação no projeto e-Agro (Bradesco), realizando migração de repositórios do GitLab para o GitHub, automação de pipelines com GitHub Actions, deploys via Argo CD e aplicação de práticas GitOps em ambientes Kubernetes.
 
-- **SysMap Solutions**  
-  Provisionamento com **Terraform**, orquestração com **Kubernetes**, pipelines em **Jenkins**, troubleshooting e monitoramento de ambientes críticos com **Dynatrace** e **Kibana**.
+**Tecnologias:** GitHub, GitHub Actions, Argo CD, GitOps, Kubernetes, Helm, Maven e Java.
+
+<br>
+
+### Surf Telecom
+Automação de pipelines CI/CD utilizando GitHub Actions e GitLab CI/CD, deploys em Kubernetes via Rancher e GitOps, gerenciamento de imagens Docker e provisionamento de infraestrutura com Terraform em AWS e Oracle Cloud.
+
+**Tecnologias:** Kubernetes, Docker, Terraform, GitHub Actions, GitLab CI/CD, Rancher, GitOps, AWS e Oracle Cloud.
+
+<br>
+
+### B3 (via Elumini)
+Automação e otimização de pipelines CI/CD utilizando GitHub Actions, Bamboo e Bitbucket, configuração de Quality Gates no SonarQube, gestão de artefatos no Nexus e integração de testes automatizados em aplicações .NET.
+
+**Tecnologias:** GitHub Actions, Bamboo, Bitbucket, SonarQube, Nexus Repository e .NET.
+
+<br>
+
+### SysMap Solutions
+Provisionamento de infraestrutura com Terraform, automação de pipelines utilizando Jenkins, gerenciamento de ambientes AWS e Kubernetes, implementação de GitOps, monitoramento com Dynatrace e Kibana e troubleshooting em ambientes críticos.
+
+**Tecnologias:** Terraform, AWS, Kubernetes, Jenkins, GitOps, Dynatrace, Kibana e Linux.
+
+<br>
+
+### Analista de Sustentação Pleno | SysMap Solutions
+Atuação na sustentação de aplicações, análise de logs, atendimento de incidentes, testes de APIs e suporte a ambientes corporativos, garantindo disponibilidade e cumprimento dos SLAs.
+
+**Tecnologias:** Kibana, Postman, Insomnia, PostgreSQL, SQL Server e Linux.
+
+<br>
+
+### Central IT
+Atuação em sustentação e implantação de sistemas, resolução de incidentes, análise de causa raiz, troubleshooting e monitoramento de aplicações críticas, garantindo conformidade com os SLAs estabelecidos.
+
+**Tecnologias:** Análise de Logs, Windows Server, Linux, SQL Server e Sustentação de Aplicações.
 
 ---
 
